@@ -1,5 +1,5 @@
 #  Evaluator in C# 
-### https://github.com/j0nathanChang/Evaluator
+### <https://github.com/j0nathanChang/Evaluator>
 A class in C# that evaluates the result of a simple algebraic expression.
 
 
